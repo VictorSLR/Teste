@@ -1,0 +1,13 @@
+driverleds.pbi: \
+  C:\Users\Victor\Documents\Sistemas\ Embarcados\COM\ RTOS\Tiva_RTOS2_IAR8\tarefas\src\driverleds.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdbool.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Users\Victor\Documents\Sistemas\ Embarcados\COM\ RTOS\Tiva_RTOS2_IAR8\tarefas\..\inc/hw_memmap.h \
+  C:\Users\Victor\Documents\Sistemas\ Embarcados\COM\ RTOS\Tiva_RTOS2_IAR8\tarefas\..\driverlib/sysctl.h \
+  C:\Users\Victor\Documents\Sistemas\ Embarcados\COM\ RTOS\Tiva_RTOS2_IAR8\tarefas\..\driverlib/gpio.h \
+  C:\Users\Victor\Documents\Sistemas\ Embarcados\COM\ RTOS\Tiva_RTOS2_IAR8\tarefas\src/driverleds.h
